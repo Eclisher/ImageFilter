@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "e-kaly",
+    "slug": "e-kaly",
+    "scheme": "e-kaly",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.e.kaly"
+    },
+    "android": {
+      "package": "com.e.kaly"
+    }
+  }
+}
